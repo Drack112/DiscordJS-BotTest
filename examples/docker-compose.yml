@@ -1,0 +1,6 @@
+services:
+  bot:
+    image: drack112/discord-test:latest
+    environment:
+      - DISCORD_TOKEN=
+      - TENOR=
